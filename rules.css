@@ -45,7 +45,7 @@ p
 	border-color: #d0ae13;
   	padding: 10px;
 	margin: 0 auto;
-	font-size: 1.5rem;
+	font-size: 1.25rem;
 }
 
 li {
@@ -54,6 +54,10 @@ li {
 	margin:0 auto;
 }
 
-a:visited{
- 	color: hotpink'
-}
+a:link {
+	color: red;
+  }
+  
+a:visited {
+	color: rgb(11, 111, 11);
+  }  
